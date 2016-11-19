@@ -1,0 +1,7 @@
+baseurl = "https://sainaen.github.io/hypothetical-blog/"
+title = "Hypothetical Blog"
+languageCode = "en"
+theme = "anybodyhome"
+
+[params]
+    subtitle = "Making world a better place one post at a time"
