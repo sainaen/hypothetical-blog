@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hypothetical Blog</title>
+    <link>https://sainaen.github.io/hypothetical-blog/index.xml</link>
+    <description>Recent content on Hypothetical Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 19 Nov 2016 18:23:05 +0000</lastBuildDate>
+    <atom:link href="https://sainaen.github.io/hypothetical-blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Something Exciting</title>
+      <link>https://sainaen.github.io/hypothetical-blog/post/second_post/</link>
+      <pubDate>Sat, 19 Nov 2016 18:23:05 +0000</pubDate>
+      
+      <guid>https://sainaen.github.io/hypothetical-blog/post/second_post/</guid>
+      <description>&lt;p&gt;… but technical and very useful for our readers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A First Post</title>
+      <link>https://sainaen.github.io/hypothetical-blog/post/first_post/</link>
+      <pubDate>Sat, 19 Nov 2016 18:08:09 +0000</pubDate>
+      
+      <guid>https://sainaen.github.io/hypothetical-blog/post/first_post/</guid>
+      <description>
+
+&lt;h2 id=&#34;we-are-live&#34;&gt;We Are Live!&lt;/h2&gt;
+
+&lt;p&gt;Hello, World!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
