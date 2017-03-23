@@ -6,6 +6,7 @@ branches:
     - master
 
 script:
+  - set -x -e
   - echo 'Build!'
 
 deploy:
