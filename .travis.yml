@@ -5,8 +5,10 @@ branches:
   only:
     - master
 
-script:
+before_install:
   - set -x -e
+
+script:
   - echo 'Build!'
 
 deploy:
