@@ -8,4 +8,4 @@ branches:
 script:
   - ./build.sh
   - cd public
-  - git push --quiet https://$GH_TOKEN@github.com/$TRAVIS_REPO_SLUG HEAD:gh-pages
+  - git push --quiet https://$GH_TOKEN@github.com/a$TRAVIS_REPO_SLUG HEAD:gh-pages
