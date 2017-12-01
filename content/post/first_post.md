@@ -8,6 +8,8 @@ title = "A First Post (Updated)"
 
 Hello, World!
 
+-----
+
 ## Update: 2017-12-02
 
 Still alive.
